@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_level4Button",
     "eventList": [
-        
+        {
+            "id": "d2c6c703-213a-4012-8908-372b4a0abef4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "30585588-06f5-4027-aa86-9e709d8de496"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
