@@ -218,7 +218,7 @@
             "Key": "91c05f79-105a-4789-b6c2-a8f054e5f56a",
             "Value": {
                 "id": "5bdf71ed-ce6c-4fd5-a91e-06e9ca33b778",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourcePath": "sprites\\s_contour\\s_contour.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "9cb740b3-0fb3-4622-be2c-27e6d55310a4",
             "Value": {
                 "id": "1e1cb0b2-9e80-4d8c-9e1f-830121bfee0e",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\o_contour\\o_contour.yy",
                 "resourceType": "GMObject"
             }
         },

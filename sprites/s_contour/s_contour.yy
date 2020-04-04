@@ -2,7 +2,7 @@
     "id": "91c05f79-105a-4789-b6c2-a8f054e5f56a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite4",
+    "name": "s_contour",
     "For3D": false,
     "HTile": false,
     "VTile": false,

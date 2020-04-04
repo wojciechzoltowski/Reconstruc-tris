@@ -2,7 +2,7 @@
     "id": "9cb740b3-0fb3-4622-be2c-27e6d55310a4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object4",
+    "name": "o_contour",
     "eventList": [
         
     ],
