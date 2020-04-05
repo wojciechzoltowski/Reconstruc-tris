@@ -22,10 +22,10 @@ image_speed = 0;
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
 /// @DnDHash : 1EE023AE
-/// @DnDArgument : "x" "(global.WINDOW_WIDTH / 2) - ( sprite_width / 2)"
-/// @DnDArgument : "y" "0"
-x = (global.WINDOW_WIDTH / 2) - ( sprite_width / 2);
-y = 0;
+/// @DnDArgument : "x" "(global.BLOCK_SIZE * global.BLOCK_NUMBER / 2) + global.OFFSET"
+/// @DnDArgument : "y" "global.OFFSET"
+x = (global.BLOCK_SIZE * global.BLOCK_NUMBER / 2) + global.OFFSET;
+y = global.OFFSET;
 
 /// @DnDAction : YoYo Games.Movement.Snap_Position
 /// @DnDVersion : 1

@@ -8,8 +8,9 @@ global.BLOCK_SIZE = 32;
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 02EFB007
+/// @DnDArgument : "value" "32"
 /// @DnDArgument : "var" "OFFSET"
-global.OFFSET = 0;
+global.OFFSET = 32;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
@@ -17,6 +18,13 @@ global.OFFSET = 0;
 /// @DnDArgument : "value" "45"
 /// @DnDArgument : "var" "CLOCK_SPEED"
 global.CLOCK_SPEED = 45;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 36BC1FD8
+/// @DnDArgument : "value" "22"
+/// @DnDArgument : "var" "BLOCK_NUMBER"
+global.BLOCK_NUMBER = 22;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
