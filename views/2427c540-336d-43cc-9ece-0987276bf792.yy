@@ -15,7 +15,15 @@
         "53145c9b-fc30-4c7c-9790-3a87fc6cc6b9",
         "92054793-c064-4a3e-b974-c72e450b1d36",
         "30edf101-969c-4a5b-b69b-35706d23530c",
-        "6caa54ba-3a9e-4399-8376-2ac03005ce79"
+        "6caa54ba-3a9e-4399-8376-2ac03005ce79",
+        "a7fa21c0-5893-49f4-9146-c2d41e7d7892",
+        "06477cd1-1cd4-4093-9eff-b10db4a461b6",
+        "1521eae1-0174-4718-a9a8-b8ecf13e7ea3",
+        "8e3ba13f-c74d-4512-9bbb-74c753f24d53",
+        "9a508498-d522-4de7-a113-f673f793b4d1",
+        "c419fc75-26d5-4c54-8f03-65bd31c47358",
+        "5c41657f-eb7c-4a4e-9fd3-3cb24c41a47d",
+        "bc92829c-fa3d-4d59-815c-3469ca81bdf9"
     ],
     "filterType": "GMSprite",
     "folderName": "menu_border",

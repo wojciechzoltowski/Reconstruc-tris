@@ -15,7 +15,15 @@
         "815db245-53d4-4462-9e4e-9ff63ec84510",
         "aaa97717-995a-4496-b05d-89f2254090b8",
         "0e2ebf76-5b4a-4ba1-9939-790fd45f9529",
-        "44d26fce-6bb0-44f3-b405-cddc29ff4add"
+        "44d26fce-6bb0-44f3-b405-cddc29ff4add",
+        "35084157-cb1e-4a60-99a1-34b2666a9c2e",
+        "28a219f9-9235-4098-9baa-545fd0bbcaae",
+        "ea6d7f0e-6871-4c17-8351-f8a29dde1aa5",
+        "33cefef2-e3cd-496e-8c81-2f73cd7099ef",
+        "0b00a490-0d9a-4634-9f67-185b98cac0f4",
+        "fc4d40f4-17b9-4a1f-a7f9-ce3f76e54d72",
+        "e13bbe3e-d426-4ebd-a69e-8bb9a1c3a360",
+        "27aa2bde-adcc-4a01-ae07-e8e56ec95cf2"
     ],
     "filterType": "GMObject",
     "folderName": "menu_border",
