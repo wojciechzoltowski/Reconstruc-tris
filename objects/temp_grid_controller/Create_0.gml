@@ -1,3 +1,29 @@
+/// @DnDAction : YoYo Games.Instances.Instance_Get_Count
+/// @DnDVersion : 1
+/// @DnDHash : 1842FCBB
+/// @DnDArgument : "var" "countContour"
+/// @DnDArgument : "object" "o_contour"
+/// @DnDSaveInfo : "object" "9cb740b3-0fb3-4622-be2c-27e6d55310a4"
+countContour = instance_number(o_contour);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5569F77D
+/// @DnDArgument : "var" "countInContour"
+countInContour = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0C8F8FE9
+/// @DnDArgument : "var" "countOutContour"
+countOutContour = 0;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 2588F751
+/// @DnDArgument : "var" "SCORE"
+global.SCORE = 0;
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 23B70888

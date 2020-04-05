@@ -39,3 +39,9 @@ global.WINDOW_WIDTH = 1024;
 /// @DnDArgument : "value" "768"
 /// @DnDArgument : "var" "WINDOW_HEIGHT"
 global.WINDOW_HEIGHT = 768;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 3B6595A2
+/// @DnDArgument : "var" "SCORE_PERCENT"
+global.SCORE_PERCENT = 0;
