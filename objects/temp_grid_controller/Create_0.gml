@@ -18,12 +18,6 @@ countInContour = 0;
 /// @DnDArgument : "var" "countOutContour"
 countOutContour = 0;
 
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 2588F751
-/// @DnDArgument : "var" "SCORE"
-global.SCORE = 0;
-
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 23B70888

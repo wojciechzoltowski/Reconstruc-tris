@@ -40,11 +40,70 @@ global.WINDOW_WIDTH = 1024;
 /// @DnDArgument : "var" "WINDOW_HEIGHT"
 global.WINDOW_HEIGHT = 768;
 
-/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDAction : YoYo Games.Files.Open_Ini
 /// @DnDVersion : 1
-/// @DnDHash : 3B6595A2
-/// @DnDArgument : "var" "SCORE_PERCENT"
-global.SCORE_PERCENT = 0;
+/// @DnDHash : 058B62F5
+ini_open("file.ini");
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 360A0A7B
+/// @DnDArgument : "var" "global.SCORE1"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""score""
+/// @DnDArgument : "key" ""score1""
+/// @DnDArgument : "default" "0"
+global.SCORE1 = ini_read_real("score", "score1", 0);
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 468D808D
+/// @DnDArgument : "var" "global.SCORE2"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""score""
+/// @DnDArgument : "key" ""score2""
+/// @DnDArgument : "default" "0"
+global.SCORE2 = ini_read_real("score", "score2", 0);
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 563573E1
+/// @DnDArgument : "var" "global.SCORE3"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""score""
+/// @DnDArgument : "key" ""score3""
+/// @DnDArgument : "default" "0"
+global.SCORE3 = ini_read_real("score", "score3", 0);
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 12224A8A
+/// @DnDArgument : "var" "global.SCORE4"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""score""
+/// @DnDArgument : "key" ""score4""
+/// @DnDArgument : "default" "0"
+global.SCORE4 = ini_read_real("score", "score4", 0);
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 0869E487
+/// @DnDArgument : "var" "global.SCORE5"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""score""
+/// @DnDArgument : "key" ""score5""
+/// @DnDArgument : "default" "0"
+global.SCORE5 = ini_read_real("score", "score5", 0);
+
+/// @DnDAction : YoYo Games.Files.Ini_Read
+/// @DnDVersion : 1
+/// @DnDHash : 63399614
+/// @DnDArgument : "var" "global.SCORE6"
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "section" ""score""
+/// @DnDArgument : "key" ""score6""
+/// @DnDArgument : "default" "0"
+global.SCORE6 = ini_read_real("score", "score6", 0);
 
 /// @DnDAction : YoYo Games.Random.Randomize
 /// @DnDVersion : 1
