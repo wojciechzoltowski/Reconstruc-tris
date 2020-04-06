@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "06a14947-04c4-4b1d-a16c-c70411cfc7bf",
+            "Value": {
+                "id": "ed05b546-7b76-44c9-9833-51f5a1979d67",
+                "resourcePath": "objects\\o_guideButton\\o_guideButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "074b49fa-488f-4298-b451-e681c031f755",
             "Value": {
                 "id": "aef8973c-ae99-4ae1-8212-f3aa5f4ae1a6",
@@ -132,6 +140,14 @@
                 "id": "8e1f49ef-777f-44c8-a0de-ccb9867a82fe",
                 "resourcePath": "sprites\\temp_ground\\temp_ground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1fe52c3a-dd0f-488e-bfda-fb8c5b7ee473",
+            "Value": {
+                "id": "9a892523-ad62-42da-8ba0-cd92f927261e",
+                "resourcePath": "sounds\\impactGeneric_light_001\\impactGeneric_light_001.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -492,6 +508,14 @@
                 "id": "c7fee952-5f63-44c8-900a-42f856a73375",
                 "resourcePath": "views\\692c159e-2bc3-402e-abae-5a5f98b04659.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b03b93a-f338-4da8-8e8b-c138744c4c03",
+            "Value": {
+                "id": "715ca9ea-1c96-479a-bc5d-fcdd9a5de882",
+                "resourcePath": "sprites\\guideButton\\guideButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -868,6 +892,14 @@
                 "id": "1de916b3-3277-447c-8519-f9d584ad53c9",
                 "resourcePath": "sprites\\level5Button\\level5Button.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0865932-3e89-4554-bd65-a9c56adf3fe5",
+            "Value": {
+                "id": "473b2b9b-5e66-49f0-ac7f-2abc3237df13",
+                "resourcePath": "rooms\\r_guide\\r_guide.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
