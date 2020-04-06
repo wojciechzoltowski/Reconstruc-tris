@@ -45,3 +45,8 @@ global.WINDOW_HEIGHT = 768;
 /// @DnDHash : 3B6595A2
 /// @DnDArgument : "var" "SCORE_PERCENT"
 global.SCORE_PERCENT = 0;
+
+/// @DnDAction : YoYo Games.Random.Randomize
+/// @DnDVersion : 1
+/// @DnDHash : 369AF8D5
+randomize();

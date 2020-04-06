@@ -5,12 +5,26 @@
 /// @DnDArgument : "var" "local_clock_speed"
 local_clock_speed = global.CLOCK_SPEED;
 
+/// @DnDAction : YoYo Games.Random.Choose
+/// @DnDVersion : 1
+/// @DnDHash : 2825A2E8
+/// @DnDInput : 8
+/// @DnDArgument : "var" "chosen_block"
+/// @DnDArgument : "option" "spr_block_sin"
+/// @DnDArgument : "option_1" "spr_block_sq"
+/// @DnDArgument : "option_2" "spr_block_cor"
+/// @DnDArgument : "option_3" "spr_block_trip"
+/// @DnDArgument : "option_4" "spr_block_l"
+/// @DnDArgument : "option_5" "spr_block_l2"
+/// @DnDArgument : "option_6" "spr_block_t"
+/// @DnDArgument : "option_7" "spr_block_sin"
+chosen_block = choose(spr_block_sin, spr_block_sq, spr_block_cor, spr_block_trip, spr_block_l, spr_block_l2, spr_block_t, spr_block_sin);
+
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 5F9C6088
-/// @DnDArgument : "spriteind" "spr_block_l"
-/// @DnDSaveInfo : "spriteind" "2d2a6913-344e-4f4c-82f9-e212d199b751"
-sprite_index = spr_block_l;
+/// @DnDArgument : "spriteind" "chosen_block"
+sprite_index = chosen_block;
 image_index = 0;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
