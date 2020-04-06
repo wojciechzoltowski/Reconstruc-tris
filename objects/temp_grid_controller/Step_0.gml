@@ -32,9 +32,9 @@ if(countInContour >= countContour)
 			/// @DnDVersion : 1
 			/// @DnDHash : 2DC02EC8
 			/// @DnDParent : 27719146
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE1"
-			global.SCORE1 = countInContour * 100 / countContour;
+			global.SCORE1 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -63,9 +63,9 @@ if(countInContour >= countContour)
 			/// @DnDVersion : 1
 			/// @DnDHash : 2AB438B6
 			/// @DnDParent : 026D171F
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE2"
-			global.SCORE2 = countInContour * 100 / countContour;
+			global.SCORE2 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -94,9 +94,9 @@ if(countInContour >= countContour)
 			/// @DnDVersion : 1
 			/// @DnDHash : 7B5447A7
 			/// @DnDParent : 7C22BE66
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE3"
-			global.SCORE3 = countInContour * 100 / countContour;
+			global.SCORE3 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -125,9 +125,9 @@ if(countInContour >= countContour)
 			/// @DnDVersion : 1
 			/// @DnDHash : 02B89ED9
 			/// @DnDParent : 03C6ABC8
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE4"
-			global.SCORE4 = countInContour * 100 / countContour;
+			global.SCORE4 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -156,9 +156,9 @@ if(countInContour >= countContour)
 			/// @DnDVersion : 1
 			/// @DnDHash : 6D5A7D74
 			/// @DnDParent : 54DF4AD9
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE5"
-			global.SCORE5 = countInContour * 100 / countContour;
+			global.SCORE5 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -187,9 +187,9 @@ if(countInContour >= countContour)
 			/// @DnDVersion : 1
 			/// @DnDHash : 06E9FE20
 			/// @DnDParent : 7553944E
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE6"
-			global.SCORE6 = countInContour * 100 / countContour;
+			global.SCORE6 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -252,9 +252,9 @@ if(countOutContour >= 5)
 			/// @DnDVersion : 1
 			/// @DnDHash : 09C53CA4
 			/// @DnDParent : 43F7A2D4
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE1"
-			global.SCORE1 = countInContour * 100 / countContour;
+			global.SCORE1 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -283,9 +283,9 @@ if(countOutContour >= 5)
 			/// @DnDVersion : 1
 			/// @DnDHash : 3B24343C
 			/// @DnDParent : 0C5C9E01
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE2"
-			global.SCORE2 = countInContour * 100 / countContour;
+			global.SCORE2 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -314,9 +314,9 @@ if(countOutContour >= 5)
 			/// @DnDVersion : 1
 			/// @DnDHash : 5B5E2679
 			/// @DnDParent : 68754858
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE3"
-			global.SCORE3 = countInContour * 100 / countContour;
+			global.SCORE3 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -345,9 +345,9 @@ if(countOutContour >= 5)
 			/// @DnDVersion : 1
 			/// @DnDHash : 3E441764
 			/// @DnDParent : 10FF69C9
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE4"
-			global.SCORE4 = countInContour * 100 / countContour;
+			global.SCORE4 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -376,9 +376,9 @@ if(countOutContour >= 5)
 			/// @DnDVersion : 1
 			/// @DnDHash : 7965162E
 			/// @DnDParent : 55D78512
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE5"
-			global.SCORE5 = countInContour * 100 / countContour;
+			global.SCORE5 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
@@ -407,9 +407,9 @@ if(countOutContour >= 5)
 			/// @DnDVersion : 1
 			/// @DnDHash : 0E28481A
 			/// @DnDParent : 32594963
-			/// @DnDArgument : "value" "countInContour * 100 / countContour"
+			/// @DnDArgument : "value" "(countInContour - countOutContour) * 100 / countContour"
 			/// @DnDArgument : "var" "SCORE6"
-			global.SCORE6 = countInContour * 100 / countContour;
+			global.SCORE6 = (countInContour - countOutContour) * 100 / countContour;
 		
 			/// @DnDAction : YoYo Games.Files.Open_Ini
 			/// @DnDVersion : 1
