@@ -151,6 +151,22 @@
             }
         },
         {
+            "Key": "162dfd01-b04f-4a9c-a879-f46adc8a3f06",
+            "Value": {
+                "id": "9c6074b6-a0d5-4b04-84de-6848982e5cab",
+                "resourcePath": "objects\\o_music\\o_music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1727eb39-dc19-437b-bd80-1c851354a9b9",
+            "Value": {
+                "id": "0fe8fcac-9900-4082-a334-2786c8856dd7",
+                "resourcePath": "objects\\o\\o.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d527e56-a3dd-47ad-ae76-a74f446b04d0",
             "Value": {
                 "id": "eb35f3a3-5852-4b72-ac46-2ca5f361e496",
@@ -412,6 +428,14 @@
                 "id": "7cdb212c-1510-4f44-b6e3-33502b96c930",
                 "resourcePath": "objects\\o_houseBeigeTopRight\\o_houseBeigeTopRight.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44d87924-9245-4f7a-9f82-71a95955c9af",
+            "Value": {
+                "id": "c6de1726-63a0-4f9c-98b1-dd0486e613e6",
+                "resourcePath": "sounds\\Spooky_Island\\Spooky_Island.yy",
+                "resourceType": "GMSound"
             }
         },
         {
