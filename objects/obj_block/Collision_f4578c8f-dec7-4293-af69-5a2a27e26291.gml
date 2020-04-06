@@ -26,3 +26,10 @@ instance_create_layer(x + 0, y + 0, "Instances", obj_block);
 /// @DnDVersion : 1
 /// @DnDHash : 5FBB4F1D
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 6291CD2F
+/// @DnDArgument : "soundid" "footstep_grass_004"
+/// @DnDSaveInfo : "soundid" "0e948de5-3dc1-4c51-9a58-683d7ca7b507"
+audio_play_sound(footstep_grass_004, 0, 0);

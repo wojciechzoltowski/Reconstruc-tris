@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "0e948de5-3dc1-4c51-9a58-683d7ca7b507",
+            "Value": {
+                "id": "21fb7ed1-1091-490f-9c99-b413de179cec",
+                "resourcePath": "sounds\\footstep_grass_004\\footstep_grass_004.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0ed23f05-6273-469a-8c46-19061a147f44",
             "Value": {
                 "id": "f853cca8-f0c0-4a7f-86ac-b782bea9fa9d",
@@ -300,6 +308,14 @@
                 "id": "4d183bff-4392-43a0-a3ba-bc497f00e51f",
                 "resourcePath": "sprites\\backgroundColorDesert_cut\\backgroundColorDesert_cut.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "38b579b2-4a8c-4262-8919-a547dbe821a4",
+            "Value": {
+                "id": "d1f05eac-eda9-4f30-a4cd-1c53cd976786",
+                "resourcePath": "sounds\\footstep_snow_000\\footstep_snow_000.yy",
+                "resourceType": "GMSound"
             }
         },
         {
